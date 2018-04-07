@@ -1,0 +1,20 @@
+.titlebox {   
+    background-size: 100%;
+    width: 100%;
+    min-height: 180px;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Times New Roman', sans-serif;
+    color:darkblue;
+    margin-bottom: 20px;
+}
+
+.titlebox h1 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.titlebox p {
+    font-size: 20px;
+}
+

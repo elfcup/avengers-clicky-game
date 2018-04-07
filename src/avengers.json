@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Steve Rogers",
+        "image": "./img/cap.jpg"
+    },
+    {
+        "name": "James 'Bucky' Barnes",
+        "image": "./img/bucky.jpg"
+    },
+    {
+        "name": "Tony Stark",
+        "image": "./img/tony.jpg"
+    },
+    {
+        "name": "Hulk",
+        "image": "./img/hulk.jpg"
+    },
+    {
+        "name": "Sam AKA Falcon",
+        "image": "./img/sam.jpg"
+    },
+    {
+        "name": "Scarlet Witch",
+        "image": "./img/scarlet.jpg"
+    },
+    {
+        "name": "Princess Shuri",
+        "image": "./img/shuri.jpg"
+    },
+    {
+        "name": "Peter Parker",
+        "image": "./img/spiderman.jpg"
+    },
+    {
+        "name": "Star Lord",
+        "image": "./img/starlord.jpg"
+    },
+    {
+        "name": "Dr. Strange",
+        "image": "./img/strange.jpg"
+    },
+    {
+        "name": "King T'Challa",
+        "image": "./img/tchalla.jpg"
+    },
+    {
+        "name": "Thor Odinson",
+        "image": "./img/thor.jpg"
+    },
+    {
+        "name": "War Machine",
+        "image": "./img/warmachine.jpg"
+    },
+    {
+        "name": "Black Widow",
+        "image": "./img/widow.jpg"
+    },
+    {
+        "name": "Okoye",
+        "image": "./img/okoye.jpg"
+    }
+]
